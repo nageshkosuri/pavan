@@ -1,0 +1,124 @@
+
+   42  git init
+   43  ls
+   44  ls -a
+   45  open .git
+   46   git init
+   47  git cd~/
+   48  cd~/
+   49  cd~/desktop
+   50  echo hello > file1.txt
+   51  echo hello >file2.txt
+   52  git status
+   53  git add .
+   54  git add *
+   55  git status
+   56  echo  world >>  file1.txt
+   57  git status
+   58  git add file1.txt
+   59  git commit -m "intial commit."
+   60  git commit -am "fix the bug that prevented the users from sining up."
+   61  rm file2.txt
+   62  git status
+   63  git ls -files
+   64  git ls-files
+   65  git status
+   66  git commit -m "remove unused coide"
+   67  git commit -m "remove unused code"
+   68  git rm file2.txt
+   69  ls
+   70  mv file1.txt main.js
+   71  git status
+   72  git add file1.txt
+   73  git add main.js
+   74  git status
+   75  git mv main.js file1.js
+   76  git coomit -m "refactor code"
+   77  mkdir logs
+   78  echo helloo >logs/dev.log
+   79  git status
+   80  .gitignor
+   81  .gitignore
+   82  echo logs/> .gitignore
+   83  code .gitignore
+   84  code .gitignore
+   85  code.gitignore
+   86  git status
+   87  git add .gitignore
+   88  git commit -m"add gitigonre"
+   89  mkdir bin
+   90  echo hello > bin/app.bin
+   91  git status
+   92  git add .
+   93  cd
+   94  pwd
+   95  cd~/
+   96  cd~/desktop
+   97  cd
+   98  pwd
+   99  git config --global user.name"nagesh"
+  100  git config --global user.email."nagesh.kosuri07@gmail.com"
+  101  git remote add
+  102  git intit
+  103  git init
+  104  git status
+  105  git status -s
+  106  dit diff
+  107  git log
+  108  git add.*
+  109  git add.file1,txt
+  110  git add.file1.txt
+  111  git add "file1.txt"
+  112  git init
+  113  git remote add origin https://github.com/nageshkosuri/paper-works2.git~
+  114  git remote add origin https://github.com/nageshkosuri/paper-works2.git
+  115  git status
+  116  git add file1.txt
+  117  git add "file1.txt"
+  118  git status
+  119  git status
+  120  git pull origin master
+  121  git log
+  122  git add textfile
+  123  deploy.sh
+  124  git clone https://github.com/nageshkosuri/paper-works2.git
+  125  ls -ltr
+  126  cd paper
+  127  ls
+  128  cd paper-works2/
+  129  ls
+  130  vi 12222.txt
+  131  ls
+  132  ls -ltr
+  133  ls -a
+  134  git remote -v
+  135  git status
+  136  git add 12222.txt
+  137  git status
+  138  git commit -m "add new file"
+  139  git branch
+  140  git push origin master
+  141  cat 12222.txt
+  142  git pull origin master
+  143  cat 12222.txt
+  144  git branch
+  145  git checkout -b child
+  146  git branch
+  147  vi 12222.txt
+  148  git status
+  149  git diff 1222.txt
+  150  git diff 12222.txt
+  151  git add 12222.txt
+  152  git commit -m "another file add"
+  153  git branch
+  154  git remote -v
+  155  git push origin child
+  156  git branch
+  157  cat 12222.txt
+  158  git checkout master
+  159  cat 12222.txt
+  160  cat 12222.txt
+  161  git  pull origin master
+  162  cat 12222.txt
+  163  history
+  164  history
